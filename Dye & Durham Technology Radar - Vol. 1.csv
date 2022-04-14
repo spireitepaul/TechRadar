@@ -42,3 +42,5 @@ Mock Service Worker,Trial,languages-and-frameworks,FALSE,"Web applications, espe
 dbt (data build tool),Adopt,Tools,FALSE,"dbt is a transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone who knows SQL can build production-grade data pipelines. "
 Soda-sql,Trial,Tools,FALSE,"Data testing, monitoring, and profiling for SQL-accessible data." 
 Great Expectations,Assess,FALSE,"Great Expectations  (https://greatexpectations.io/) io is a shared, open standard for data quality. It helps data teams eliminate pipeline debt, through data testing, documentation, and profiling. Can be included in dbt for example."
+Metabase,Trial,Platforms,FALSE,"Data Reporting tool, that provides a simple way of navigating round to create dashboards and provide data analysis"
+Airbyte,Assess,Tools,FALSE,"Web-based ETL tool for data transformations"
